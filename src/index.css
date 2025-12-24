@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body {
+        font-family: 'Open Sans', sans-serif;
+    }
+    h1, h2, h3, h4{
+        font-family: 'Josefin Sans', sans-serif;
+    }
+    button{
+        cursor: pointer;    
+        display: inline-block;
+        transition: all 0.3s ease-in-out;
+    }
+    button:active{
+        scale: 0.9;
+    }
+
+}
+@layer utilities {
+    .my-font {
+        font-family: 'Josefin Sans', sans-serif;
+    }
+}
