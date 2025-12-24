@@ -60,7 +60,7 @@ Run the project locally:
 git clone https://github.com/Naadix/Algorithm-Visualizer.git
 
 # Navigate into the project folder
-cd Sort_Search_Project
+cd Algorithm-Visualizer
 
 # Install dependencies
 npm install
