@@ -22,7 +22,7 @@ Blue for default, yellow for comparison, red for swap, and green for sorted elem
 
 > **Visualizing Sorting:**
 ![Sorting Implementation](src/assets/Comparison_operation.png)
-![Sorting Implementation](src\assets\Swap_opreation.png)
+![Sorting Implementation](src/assets/Swap_opreation.png)
 ![Sorting Implementation](src/assets/Sorted_operation.png)
 
 ---
@@ -34,8 +34,8 @@ A dedicated module for tree-based and table-based data structures with full CRUD
 * **Features:** Supports **Insertion**, **Search** , and **Deletion**.
 
 > **BST Operations:**
-> ![BST Screenshot](src\assets\BST_operation.png)
-> ![BST Search Node](src\assets\BST_searchNode.png)
+> ![BST Screenshot](src/assets/BST_operation.png)
+> ![BST Search Node](src/assets/BST_searchNode.png)
 
 #### **📉 Binary Heap (Max Heap)**
 * **Features:** Supports **Insertion**, **Extraction (Root)**, and **Specific Node Deletion**.
@@ -43,13 +43,13 @@ A dedicated module for tree-based and table-based data structures with full CRUD
 * **Representation:** Syncs a visual tree structure with the underlying array representation.
 
 > **Heap Structure:**
-> ![Heap Screenshot](src\assets\Heap_operation.png)
+> ![Heap Screenshot](src/assets/Heap_operation.png)
 
 #### **🔑 Hash Table**
 * **Features:** Visualizes string hashing and index mapping.
 
 > **Hash Table Mapping:**
-> ![Hash Table Screenshot](src\assets\HashTable.png)
+> ![Hash Table Screenshot](src/assets/HashTable.png)
 
 ---
 ## ⚡ Installation & Setup
